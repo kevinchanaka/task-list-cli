@@ -1,0 +1,21 @@
+{
+  "name": "task-list-cli",
+  "version": "1.0.0",
+  "description": "CLI to manage tasks",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "commander": "^7.0.0",
+    "console-table-printer": "^2.7.5",
+    "joi": "^17.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.18.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
